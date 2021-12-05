@@ -1,0 +1,26 @@
+body {
+    background-image:
+        linear-gradient(rgba(23, 24, 34, 0.600),
+            rgba(23, 24, 34, 0.600)),
+        url('../images/abstract.jpg');
+    height: 100%;
+    background-position:center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title-head {
+    color: white;
+}
+
+.desc-head {
+    color: white;
+}
+
+.del-head {
+    color: white;
+}
+
+hr {
+    border-top: 1px solid white;
+}
